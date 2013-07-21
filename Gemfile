@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
 
-gem 'foodcritic', '~>2.2.0'
+gem 'knife-preflight', '~>0.1.6'
